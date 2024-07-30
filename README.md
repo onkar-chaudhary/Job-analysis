@@ -21,12 +21,12 @@ This project analyses job postings in the year 2023, to find sutiable job accord
 
 1. **First Query:** A significant number of the top-paying jobs are either fully remote or located in major urban centers like New York, NY. The ability to work from anywhere is a common feature among these high-paying positions, reflecting a growing trend in the job market where flexibility and remote work options are increasingly valued.
 
-2. **Second Query:**
+2. **Second Query:** The data indicates that top-paying roles often demand expertise in multiple programming languages and data technologies. Python and SQL are particularly prevalent, reflecting their essential role in data analysis and management.
 
-3. **Third Query:**
+3. **Third Query:** The most in-demand skills are SQL, Excel, Python, Tableau, and R, essential for data management and analysis roles.
 
-4. **Fourth Query:**
+4. **Fourth Query:** The top skills based on salary are Couchbase, Dplyr, Watson, React, and DataRobot, indicating high value in specialized database, AI, and web development expertise.
 
-5. **Fifth Query:**
+5. **Fifth Query:** For optimal career growth we should consider, learning high-demand skills like React for job security or high-paying but less demanded skills like Couchbase and Dplyr for maximum earning potential.
 
 ---
